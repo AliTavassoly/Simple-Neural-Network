@@ -1,4 +1,4 @@
-This is asimple deep neural network project.
+This is a simple deep neural network project.
 
 The dataset is [Kaggle Dataset Link](https://www.kaggle.com/datasets/alexteboul/diabetes-health-indicators-dataset). This dataset focuses on health indicators related to diabetes.
 
